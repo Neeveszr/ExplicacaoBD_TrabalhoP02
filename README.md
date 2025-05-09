@@ -15,8 +15,9 @@ A biblioteca atende alunos de diversos cursos e realiza controle de:
 
 ---
 
-🗂️ Estrutura do Repositório
+## 🗂️ Estrutura do Repositório
 
+```bash
 📦 biblioteca-universitaria/
 ├── ddl/
 │   ├── create_tables.sql      # Criação das tabelas
