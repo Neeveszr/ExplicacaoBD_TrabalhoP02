@@ -1,6 +1,7 @@
 📚 Sistema de Banco de Dados - Biblioteca Universitária
 
 Este projeto tem como objetivo a criação de um banco de dados relacional para o gerenciamento de uma biblioteca universitária, com foco no controle de alunos, livros, empréstimos, devoluções e multas.
+Link do vídeo explicando: https://www.youtube.com/watch?v=UpGtpxdjssM
 
 ---
 
